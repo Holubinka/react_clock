@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss","Clock.css"],"names":[],"mappings":"AAAA,OACE,WAAY,CACZ,oBAAqB,CACrB,gBAAiB,CACjB,iBAAkB,CAClB,kBAAmB,CCLrB,OACE,iBACF","file":"main.e5febad6.chunk.css","sourcesContent":["button {\n  height: 45px;\n  margin-right: 1.25rem;\n  background: green;\n  font-size: 1.25rem;\n  border-radius: 25px;\n}\n",".clock {\n  font-size: 1.15rem;\n}\n"]}
